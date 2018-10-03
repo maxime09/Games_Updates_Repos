@@ -1,2 +1,2 @@
-# Games_Updates_Repos
+# Games Updates Repos
 Repository for Games Update packages
